@@ -6,7 +6,7 @@
 
 ## 📖 Overview
 
-**FloatChat** (repo name: *Flowchat*) is a Streamlit-based web application that lets users interact with ARGO oceanographic data through natural language. Instead of writing SQL or wrestling with NetCDF files directly, you simply ask questions like *"What is the temperature profile at 500m depth?"* and FloatChat handles the rest — querying the database, generating insights, and rendering interactive visualizations.
+**FloatChat**  is a Streamlit-based web application that lets users interact with ARGO oceanographic data through natural language. Instead of writing SQL or wrestling with NetCDF files directly, you simply ask questions like *"What is the temperature profile at 500m depth?"* and FloatChat handles the rest — querying the database, generating insights, and rendering interactive visualizations.
 
 The project combines a vector database (ChromaDB) for semantic search, a relational layer (SQLAlchemy) for structured queries, an LLM processor for natural language understanding, and a rich visualization stack (Plotly + Folium) for charts and maps.
 
